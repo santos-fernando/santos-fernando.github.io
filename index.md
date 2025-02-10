@@ -20,6 +20,5 @@ author_profile: true
 
 ![image-center](/assets/images/fds-photo-large.jpg){: .align-center}
 
-## Professor, Pesquisador
 
 {% include fds-bio.md %}
