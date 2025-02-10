@@ -17,8 +17,9 @@ header:
 author_profile: true
 ---
 
-## Professor, Pesquisador
 
 ![image-center](/assets/images/fds-photo-large.jpg){: .align-center}
+
+## Professor, Pesquisador
 
 {% include fds-bio.md %}
