@@ -10,12 +10,15 @@ header:
 #  actions:
 #    - label: "Download"
 #      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: Fernando Santos"
+#  caption: "Photo credit: Fernando Santos"
   #excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 #intro: 
 #  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+author_profile: true
 ---
 
-Welcome to my website.
+## Professor, Pesquisador
 
-It is under construction. Menus are not working. I'm learning how to use the [Jekyll Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) template.
+![image-center](/assets/images/fds-photo-large.jpg){: .align-center}
+
+{% include fds-bio.md %}
